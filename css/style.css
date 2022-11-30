@@ -8,7 +8,7 @@ body {
   font-family: "Muli", sans-serif;
   background-color: #413845;
   color: #222;
-  overflow: hidden;
+  overflow-x: hidden;
   margin: 0;
 }
 
